@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jai & Zach's Totally Amazing Food Journey]]></title>
+        <description><![CDATA[Jai & Zach's Totally Amazing Food Journey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 15:56:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sweet Potato Yumtown]]></title>
+            <description><![CDATA[<article><h1>Sweet Potato Yumtown</h1><p>Sweet Potato, Zucchini, Kale</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc7fb6df676f4d02bdaa9848973a025ba1075710.jpg"></article>]]></description>
+            <link>undefinedsweet-potato-yumtown/index.html</link>
+            <guid isPermaLink="false">3b61e8d9-10c1-4e82-83fa-58a5e89f675d</guid>
+            <pubDate>Tue, 02 Feb 2016 15:56:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
